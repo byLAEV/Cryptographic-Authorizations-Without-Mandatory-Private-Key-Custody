@@ -1,6 +1,6 @@
 WHITEPAPER
 
-by Lerry Alexander Elizondo Villalobos, alias LAEV
+by Lerry Alexander Elizondo Villalobos, alias LAEV; Inspired by the work done in the past by Mierca Popescu with GPG technology. 
 
 Architecture for Requests, Commitments, and Cryptographic Authorizations Without Mandatory Private-Key Custody
 
